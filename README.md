@@ -2,7 +2,9 @@
 
 **Gestor Alumno** es una aplicación Android moderna y minimalista diseñada para la gestión eficiente de estudiantes. Construida con **Kotlin** y **Jetpack Compose**, utiliza **Google Sheets** como backend ligero y flexible, permitiendo un control total de los datos sin necesidad de servidores complejos.
 
-![Logo](app/src/main/res/drawable/logo.jpeg)
+<p align="center">
+  <img src="app/src/main/res/drawable/logo.jpeg" width="180" alt="Gestor Alumno Logo">
+</p>
 
 ## ✨ Características Principales
 
