@@ -103,7 +103,3 @@ com.example.mvpparaandroid
 ## 🤝 Contribución
 
 Las contribuciones son bienvenidas. Por favor, abre un issue primero para discutir qué te gustaría cambiar.
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT.
