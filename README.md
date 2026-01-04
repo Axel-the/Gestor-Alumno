@@ -1,10 +1,19 @@
-# Gestor Alumno 📱🎓
-
-**Gestor Alumno** es una aplicación Android moderna y minimalista diseñada para la gestión eficiente de estudiantes. Construida con **Kotlin** y **Jetpack Compose**, utiliza **Google Sheets** como backend ligero y flexible, permitiendo un control total de los datos sin necesidad de servidores complejos.
-
-<p align="center">
-  <img src="app/src/main/res/drawable/logo.jpeg" width="180" alt="Gestor Alumno Logo">
-</p>
+<table border="0">
+  <tr>
+    <td width="30%" align="center">
+      <img src="app/src/main/res/drawable/logo.jpeg" width="100%" alt="Gestor Alumno Logo">
+    </td>
+    <td>
+      <h1 border="0">Gestor Alumno 📱🎓</h1>
+      <p>
+        <strong>Gestor Alumno</strong> es una aplicación Android moderna y minimalista diseñada para la gestión eficiente de estudiantes.
+      </p>
+      <p>
+        Construida con <strong>Kotlin</strong> y <strong>Jetpack Compose</strong>, utiliza <strong>Google Sheets</strong> como backend ligero y flexible, permitiendo un control total de los datos sin necesidad de servidores complejos.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## ✨ Características Principales
 
@@ -36,7 +45,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local.
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/gestor-alumno.git
+git clone https://github.com/Axel-the/Gestor-Alumno.git
 cd gestor-alumno
 ```
 
