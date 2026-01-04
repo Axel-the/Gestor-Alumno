@@ -85,7 +85,9 @@ com.example.mvpparaandroid
 
 ## 📸 Capturas de Pantalla
 
-*(Espacio reservado para capturas de pantalla de la app funcionando)*
+| Lista de Alumnos | Registro / Edición |
+|:---:|:---:|
+| <img src="screenshots/list_screen.png" width="300"> | <img src="screenshots/register_screen.png" width="300"> |
 
 ## 🤝 Contribución
 
